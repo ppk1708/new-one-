@@ -10,9 +10,9 @@ public class egpgm {
 	List emp = new ArrayList();
 	emp.add(12);
 	emp.add("praveen");
-	emp.add('a');
+	
 	emp.add(12.858f);
-	emp.add(true);
+	emp.add(false);
 	
 	System.out.println(emp);
 	
